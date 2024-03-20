@@ -1,4 +1,4 @@
-# tdssaini-web-server-boilerplate
+# vue3-vite-express-boilerplate
 
 This template should help get you started developing with Vue 3 in Vite & Express Server.
 
